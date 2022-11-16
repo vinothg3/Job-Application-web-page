@@ -1,0 +1,54 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	
+}
+body
+{
+	margin: 20px;
+	padding: 20px;
+	background-color:red;
+	background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqwjBP3MVApahCtAy-rkDUyQLAsUkFCasQw&usqp=CAU) no-repeat  fixed ;
+    background-size:cover ;
+}
+.logo
+{
+	background: rgba(169, 30, 16, 0.6);
+	text-align: center;
+	border: 2px double blue;
+	border-radius:20px 0px 20px 0px;
+	padding: 20px;
+	margin-bottom: 40px;
+}
+.table
+{
+	background:rgba(255, 200, 10, 0.2);
+	color: cyan;
+	
+
+}
+.input
+{
+	color:cornflowerblue;
+	padding: 5px;
+}
+#botton
+{
+	background-color: red;
+	color: yellow;
+	border: 2px solid blue;
+	border-radius: 20px 0px 20px;
+	padding:20px;
+	font-size: 20px;
+}
+#botton:hover
+{
+	background-color:cyan;
+	color:red;
+	border: 2px solid blue;
+	border-radius: 20px 0px 20px;
+	padding:20px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
